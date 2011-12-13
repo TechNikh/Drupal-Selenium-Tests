@@ -1,0 +1,12 @@
+1) Download & install the firefox addon from http://seleniumhq.org/download/
+2) Download the test scripts from github https://github.com/TechNikh/Drulenium
+3) Search & Replace "technikh-enter-your-" text accordingly in the scripts
+example:
+replace technikh-enter-your-site-name with your site name like google
+replace technikh-enter-your-user-name with your user name like admin
+replace technikh-enter-your-password with your password
+4) Open the scripts in your Selenium IDE
+
+
+
+Tested in Selenium IDE 1.4.1
