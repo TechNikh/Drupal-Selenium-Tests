@@ -10,3 +10,9 @@ replace technikh-enter-your-password with your password
 
 
 Tested in Selenium IDE 1.4.1
+
+
+
+
+Test cases:
+1) anonymous-perm-check -> test to make sure anonymous users don't have access to administration pages
